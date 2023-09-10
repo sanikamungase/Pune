@@ -4,6 +4,7 @@ class a
     {
         System.out.println(x:"hello")
         System.out.println(x:"Pune")
+         System.out.println(x:"Alandi")
         
 
     }
